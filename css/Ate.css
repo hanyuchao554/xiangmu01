@@ -1,0 +1,69 @@
+*{margin: 0;padding: 0;}
+body{background: #fff;font-size:14px;font-family: "微软雅黑";}
+.logo{width:160px; height:50px;padding: 30px 0 30px 70px;}
+.nav{width:100%;height: 50px;border-bottom: 1px solid #e2e2e2;border-top: 1px solid #e2e2e2;}
+.nav>ul{list-style-type: none;font-weight: bold;padding-left: 30px;}
+.nav>ul>li{float: left;line-height: 40px;position: relative;}
+.nav>ul>li img{padding-left:10px;top: 10px;}
+.nav>ul>li>a{color: #9e9eb9;text-decoration: none;display: block;line-height: 50px;padding: 0 40px;}
+.nav>ul>li>a:hover{color: #616161;background-color: #c6c6c6;display: block;}
+.nav>ul>li>ul{float: left;display: none;position: absolute;}
+.nav>ul>li>ul>li{float: left;list-style-type: none;line-height: 40px;width:100%;height: 50px;text-align: center;background: url(../img/nav-1.png)no-repeat;}
+.nav>ul>li>ul>li>a{ color: #9e9eb9;text-decoration: none;padding: 0 12px;}
+.nav>ul>li>ul>li>a:hover{color: #616161;display: block;}
+.nav>ul>li:hover ul{display: block;}
+.obe{padding-top: 12px;float: right;padding-right: 40px;}
+.lastname .inputtext{width: 138px;height: 18px;font-size: 14px;font-family: "微软雅黑";float: left;margin-top:2px;}
+.inputimg{width: 30px;height: 26px;float: left;margin-left: -5px;}
+
+
+.banner img{width:100%;height: 415px;}
+
+.gyqy{width:670px;height: 110;margin:0 auto;}
+.gyqy h1{font-family: "方正大黑简体";font-size: 38px;color: #000000;padding: 40px 0 28px 270px;}
+.gyqy p{font-family: "微软雅黑";font-size: 14px;color: #c3c7c8;}
+.gyqy ul{list-style: none;font-family: "微软雅黑";font-size: 24px;margin:10px 0;margin-left:-20px;}
+.gyqy ul li{float: left;padding:20px 20px;}
+.gyqy .border{border-left: dashed 1px #d3d3d3;}
+.gyqy .font a {color: #0053a9;border-bottom: 2px solid #0053A9;display: block; padding-bottom: 18px;}
+.gyqy ul li a{color:#5c5c5c;text-decoration: none}
+.gyqy ul li a:hover{color: #0053A9;}
+.font1{width: 1148px; height:250px;font-family: "微软雅黑";font-size: 14px;color: #000000;overflow: hidden;margin: 0 auto;}
+.font1 h3{font-family: "微软雅黑";font-size: 28px;font-weight: normal;padding-top: 50px;padding-bottom:35px;}
+.font1 p{line-height:25px;}
+.one {width: 100%; margin: 0 auto;border-top: 1px solid olivedrab;}
+.content{width: 100%; height:722px;background: url(../img/Atetu1.jpg) no-repeat center;}
+.tu1{width:476px; height:220px;float: right;margin: 250px 85px}
+.tu1 h2{font-size:30px;font-family: "微软雅黑";font-weight: normal;color: #000000;padding-bottom:45px;}
+.tu1 p{font-size:15px; font-family: "微软雅黑";color: #000000;line-height:30px;}
+.content1{width: 100%; height:722px;background: url(../img/Atetu2.jpg) no-repeat center;}
+.tu2{width:476px; height:220px;float: left;margin: 250px 140px}
+.tu2 h2{font-size:30px;font-family: "微软雅黑";font-weight: normal;color: #000000;padding-bottom:45px;}
+.tu2 p{font-size:15px; font-family: "微软雅黑";color: #000000;line-height:30px;}
+.content2{width: 100%; height:722px;background: url(../img/Atetu3.jpg) no-repeat center;}
+.tu3{width:476px; height:220px;float: right;margin: 250px 85px}
+.tu3 h2{font-size:30px;font-family: "微软雅黑";font-weight: normal;color: #000000;padding-bottom:45px;}
+.tu3 p{font-size:15px; font-family: "微软雅黑";color: #000000;line-height:30px;}
+.content3{width: 100%; height:722px;background: url(../img/Atetu4.jpg) no-repeat center;}
+.tu4{width:476px; height:220px;float: left;margin: 250px 140px}
+.tu4 h2{font-size:30px;font-family: "微软雅黑";font-weight: normal;color: #000000;padding-bottom:45px;}
+.tu4 p{font-size:15px; font-family: "微软雅黑";color: #000000;line-height:30px;}
+
+.copyright{width: 100%;height: 164px;background-color: #eeeeee;}
+.nai{width:740px;margin:0 auto;padding-top: 30px;}
+.nai span{color: #9C9A9B;padding: 0 2px;font-size: 12px;font-family: "微软雅黑";}
+.nai  a{font-size:12px; font-family: "微软雅黑";color: #9c9a9b;text-decoration: none;}
+.nai a:hover{color: #5f5f5f;}
+.mian{width: 200px; height: 32px;margin: 5px auto;}
+.mian span{font-size: 14px;font-family: "微软雅黑";color: #9c9a9b; display: block; float: left; padding-top:6px;}
+.mian a{ display: block; float: left;}
+.fix{width: 380px;height: 28px;margin: 0 auto;}
+.fix a{font-size: 28px;font-family: "微软雅黑";color: #9C9A9B;text-decoration: none;}
+.top{width: 500px;height:12px;margin-top: 10px;margin-left: auto;margin-right: auto;border-top: 1px solid #000;}
+.top p{line-height:2em;}
+.top img{width: 12px;height: 12px;}
+.top  a{font-size: 12px;font-family: "微软雅黑"; color: #000000;text-decoration: none;}
+.top span a{font-size: 12px;font-family: "微软雅黑";color: #5fadd2;}
+.top span a:hover{color: #3e8dab;}
+
+

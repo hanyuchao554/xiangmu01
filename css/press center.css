@@ -1,0 +1,142 @@
+*{margin: 0;padding: 0;}
+body{background: #fff;font-size:14px;font-family: "微软雅黑";}
+.logo{width:160px; height:50px;padding: 30px 0 30px 70px;}
+.nav{width:100%;height: 50px;border-bottom: 1px solid #e2e2e2;border-top: 1px solid #e2e2e2;}
+.nav>ul{list-style-type: none;font-weight: bold;padding-left: 30px;}
+.nav>ul>li{float: left;line-height: 40px;position: relative;}
+.nav>ul>li img{padding-left:10px;top: 10px;}
+.nav>ul>li>a{color: #9e9eb9;text-decoration: none;display: block;line-height: 50px;padding: 0 40px;}
+.nav>ul>li>a:hover{color: #616161;background-color: #c6c6c6;display: block;}
+.nav>ul>li>ul{float: left;display: none;position: absolute;}
+.nav>ul>li>ul>li{float: left;list-style-type: none;line-height: 40px;width:100%;height: 50px;text-align: center;background: url(../img/nav-1.png)no-repeat;}
+.nav>ul>li>ul>li>a{ color: #9e9eb9;text-decoration: none;padding: 0 12px;}
+.nav>ul>li>ul>li>a:hover{color: #616161;display: block;}
+.nav>ul>li:hover ul{display: block;}
+.obe{padding-top: 12px;float: right;padding-right: 40px;}
+.lastname .inputtext{width: 138px;height: 18px;font-size: 14px;font-family: "微软雅黑";float: left;margin-top:2px;}
+.inputimg{width: 30px;height: 26px;float: left;margin-left: -5px;}
+.banner img{width:100%;height: 415px;}
+
+.gyqy{width:100%;height:200px;margin: 0 200px;}
+.gyqy h1{font-family: "方正大黑简体";font-size: 38px;color: #000000;padding: 40px 0 5px 400px;}
+.gyqy ul{list-style: none;font-family: "微软雅黑";font-size: 24px;margin-left:50px;}
+.gyqy ul li{float: left;padding:10px 20px;}
+.gyqy .border{border-left: dashed 1px #d3d3d3;}
+.gyqy .font a {color: #0053a9;border-bottom: 2px solid #0053A9;display: block; }
+.gyqy ul li a{color:#5c5c5c;text-decoration: none}
+.gyqy ul li a:hover{color: #0053A9;}
+
+.old{ width: 200px; height: 30px;float: right;margin-top: -30px;}
+.month-label select{width:70px;height: 30px;background: url(../img/3.png) no-repeat right;}
+
+
+.one{width: 100%; margin: 0 70px;}
+.tu1{width:380px;float: left;padding: 12px 14px;}
+.tupian1 img{width: 380px;height: 255px;}
+.font1{width: 380px;height: 230px;background-color:#eeeeee;overflow: hidden;line-height: 20px;}
+.font1 h3{padding: 26px 20px;}
+.font1 h3 a{font-size: 14px;font-family: "微软雅黑";color: #7e7e7e;text-decoration: none; }
+.font1 p{padding-left: 20px;}
+.font1 p a{font-size:10px;font-family: "微软雅黑";color: #7E7E7E;text-decoration: none;}
+.lift{float: left;padding-top: 25px;}
+.right{float: right;padding:25px 10px;}
+.right img{width: 23px;height: 20px;}
+
+.tu2{width:380px;float: left;padding: 12px 14px;}
+.tupian2{width: 380px;height: 255px;}
+.tupian2 img{width: 380px;height: 255px;}
+.font2{width: 380px;height: 230px;background-color:#eeeeee;overflow: hidden;line-height: 20px;}
+.font2 h3{padding: 26px 20px;}
+.font2 h3 a{font-size: 14px;font-family: "微软雅黑";color: #7e7e7e;text-decoration: none; }
+.font2 p{padding-left: 20px;}
+.font2 p a{font-size:10px;font-family: "微软雅黑";color: #7E7E7E;text-decoration: none;}
+.font2 p span{padding-top:65px;}
+
+.tu3{width:380px;float: left;padding: 12px 14px;}
+.tupian3{width: 380px;height: 255px;}
+.tupian3 img{width: 380px;height: 255px;}
+.font3{width: 380px;height: 230px;background-color:#eeeeee;overflow: hidden;line-height: 20px;}
+.font3 h3{padding: 26px 20px;}
+.font3 h3 a{font-size: 14px;font-family: "微软雅黑";color: #7e7e7e;text-decoration: none; }
+.font3 p{padding-left: 20px;}
+.font3 p a{font-size:10px;font-family: "微软雅黑";color: #7E7E7E;text-decoration: none;}
+.font3 p span{padding-top:65px;}
+
+.one1{width: 100%; margin: 0 70px;}
+.tu4{width:380px;float: left;padding: 12px 14px;}
+.tupian4{width: 380px;height: 255px;}
+.tupian4 img{width: 380px;height: 255px;}
+.font4{width: 380px;height: 230px;background-color:#eeeeee;overflow: hidden;line-height: 20px;}
+.font4 h3{padding: 26px 20px;}
+.font4 h3 a{font-size: 14px;font-family: "微软雅黑";color: #7e7e7e;text-decoration: none; }
+.font4 p{padding-left: 20px;}
+.font4 p a{font-size:10px;font-family: "微软雅黑";color: #7E7E7E;text-decoration: none;}
+.font4 p span{padding-top:65px;}
+
+.tu5{width:380px;float: left;padding: 12px 14px;}
+.tupian5{width: 380px;height: 255px;}
+.tupian5 img{width: 380px;height: 255px;}
+.font5{width: 380px;height: 230px;background-color:#eeeeee;overflow: hidden;line-height: 20px;}
+.font5 h3{padding: 26px 20px;}
+.font5 h3 a{font-size: 14px;font-family: "微软雅黑";color: #7e7e7e;text-decoration: none; }
+.font5 p{padding-left: 20px;}
+.font5 p a{font-size:10px;font-family: "微软雅黑";color: #7E7E7E;text-decoration: none;}
+.font5 p span{padding-top:45px;}
+
+.tu6{width:380px;float: left;padding: 12px 14px;}
+.tupian6{width: 380px;height: 255px;}
+.tupian6 img{width: 380px;height: 255px;}
+.font6{width: 380px;height: 230px;background-color:#eeeeee;overflow: hidden;line-height: 20px;}
+.font6 h3{padding: 26px 20px;}
+.font6 h3 a{font-size: 14px;font-family: "微软雅黑";color: #7e7e7e;text-decoration: none; }
+.font6 p{padding-left: 20px;}
+.font6 p a{font-size:10px;font-family: "微软雅黑";color: #7E7E7E;text-decoration: none;}
+.font6 p span{padding-top:65px;}
+
+ .one2{width: 100%; margin: 0 70px;}
+.tu7{width:380px;float: left;padding: 12px 14px;}
+.tupian7{width: 380px;height: 255px;}
+.tupian7 img{width: 380px;height: 255px;}
+.font7{width: 380px;height: 230px;background-color:#eeeeee;overflow: hidden;line-height: 20px;}
+.font7 h3{padding: 26px 20px;}
+.font7 h3 a{font-size: 14px;font-family: "微软雅黑";color: #7e7e7e;text-decoration: none; }
+.font7 p{padding-left: 20px;}
+.font7 p a{font-size:10px;font-family: "微软雅黑";color: #7E7E7E;text-decoration: none;}
+.font7 p span{padding-top:85px;}
+
+.tu8{width:380px;float: left;padding: 12px 14px;}
+.tupian8{width: 380px;height: 255px;}
+.tupian8 img{width: 380px;height: 255px;}
+.font8{width: 380px;height: 230px;background-color:#eeeeee;overflow: hidden;line-height: 20px;}
+.font8 h3{padding: 26px 20px;}
+.font8 h3 a{font-size: 14px;font-family: "微软雅黑";color: #7e7e7e;text-decoration: none; }
+.font8 p{padding-left: 20px;}
+.font8 p a{font-size:10px;font-family: "微软雅黑";color: #7E7E7E;text-decoration: none;}
+.font8 p span{padding-top:45px;}
+
+.tu9{width:380px;float: left;padding: 12px 14px;}
+.tupian9{width: 380px;height: 255px;}
+.tupian9 img{width: 380px;height: 255px;}
+.font9{width: 380px;height: 230px;background-color:#eeeeee;overflow: hidden;line-height: 20px;}
+.font9 h3{padding: 26px 20px;}
+.font9 h3 a{font-size: 14px;font-family: "微软雅黑";color: #7e7e7e;text-decoration: none; }
+.font9 p{padding-left: 20px;}
+.font9 p a{font-size:10px;font-family: "微软雅黑";color: #7E7E7E;text-decoration: none;}
+.font9 p span{padding-top:45px;}
+
+.copyright{width: 100%;height: 164px;background-color:#eee;overflow: hidden;}
+.nai{width:740px;margin:0 auto;padding-top: 30px;}
+.nai span{color: #9C9A9B;padding: 0 2px;font-size: 12px;font-family: "微软雅黑";}
+.nai  a{font-size:12px; font-family: "微软雅黑";color: #9c9a9b;text-decoration: none;}
+.nai a:hover{color: #5f5f5f;}
+.mian{width: 200px; height: 32px;margin: 5px auto;}
+.mian span{font-size: 14px;font-family: "微软雅黑";color: #9c9a9b; display: block; float: left; padding-top:6px;}
+.mian a{ display: block; float: left;}
+.fix{width: 380px;height: 28px;margin: 0 auto;}
+.fix a{font-size: 28px;font-family: "微软雅黑";color: #9C9A9B;text-decoration: none;}
+.top{width: 500px;height:12px;margin-top: 10px;margin-left: auto;margin-right: auto;border-top: 1px solid #000;}
+.top p{line-height:2em;}
+.top img{width: 12px;height: 12px;}
+.top  a{font-size: 12px;font-family: "微软雅黑"; color: #000000;text-decoration: none;}
+.top span a{font-size: 12px;font-family: "微软雅黑";color: #5fadd2;padding: 0 50px;}
+.top span a:hover{color: #3e8dab;}
